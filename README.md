@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sonnyeros, i'm brazilian living in Brasília, Brazil.
 - 👀 I’m interested in learn the max that i can of programming universe.
-- 🌱 I’m currently learning Java, HTML and CSS, Git and GitHub (obviously).
+- 🌱 I’m currently learning Java, HTML and CSS, MarkDown, Git and GitHub.
 - 💞️ I’m looking to collaborate on public repository for studying and practicing!
 - 📫 How to reach me in LinkedIn: sonny-heros, and Instagram: @sonnyheros
 - 😄 Pronouns: he/him
